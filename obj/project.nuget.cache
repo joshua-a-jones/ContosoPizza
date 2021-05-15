@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OonzHS9vs5wOkQZPE92kmhkFTDsT1Z1N8vKPoSmSiBZ2NcEf1LKiglGP0t2V4Kxk9z8m/lY+7YC9KqvphP51uw==",
+  "success": true,
+  "projectFilePath": "/Users/joshuajones/Library/Mobile Documents/com~apple~CloudDocs/Desktop/ContosoPizza/ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/joshuajones/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/joshuajones/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/joshuajones/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/joshuajones/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/joshuajones/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/joshuajones/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
